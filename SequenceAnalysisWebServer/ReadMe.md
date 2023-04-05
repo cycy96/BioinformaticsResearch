@@ -1,4 +1,4 @@
-# sequence analysis web server 
+# Sequence Analysis Web Server 
 This is a free and open source platform mainly designed for nucleotide sequences analysis of DNA and proteins.
 
 

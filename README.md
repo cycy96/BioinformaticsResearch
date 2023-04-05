@@ -1,3 +1,3 @@
-Academic projects for MSc (Bioinformatics) 
+# Academic projects for MSc (Bioinformatics) 
 
 Web development project - Bioinformatics online system

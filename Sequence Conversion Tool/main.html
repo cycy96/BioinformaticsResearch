@@ -1,0 +1,141 @@
+<html>
+<head>
+<title>Sequence Analysis Tool</title>
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+<style>
+ 
+body {
+margin: 0;
+}
+
+/* Style the header */
+.header {
+background-color: #b2beb5;
+padding: 20px;
+text-align: center;
+}
+
+/* Style the top navigation bar */
+.topnav {
+overflow: hidden;
+background-color: #e2e5de;
+}
+
+/* Style the topnav links */
+.topnav a {
+float: left;
+display: block;
+color: black;
+text-align: center;
+padding: 15px 20px;
+text-decoration: none;
+}
+
+/* Change color on hover */
+.topnav a:hover {
+background-color: #88807b;
+color: white;
+}
+
+/* Create three unequal columns that floats next to each other */
+.column {
+float: left; 
+padding: 20px;
+margin-right: 10px;
+}
+
+/* Left and right column */
+.column.side { 
+width: 25%; 
+}
+
+/* Middle column */ 
+.column.middle {
+width: 38%;
+}
+
+.border{
+border-left: 6px solid #88807b;
+font-size: 20px;
+
+}
+ 
+/* Clear floats after the columns */
+.row:after {
+content: "";
+display: table;
+clear: both;
+}
+ 
+/* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 600px) {
+.column.side, .column.middle {
+width: 100%;
+}
+}
+
+/* Style the footer */
+.footer {
+background-color: #b2beb5;
+padding: 20px;
+text-align: center;
+}
+
+</style>
+
+</head>
+<body>
+<div class=header>
+<h1>Sequence Conversion Tool</h1>
+</div>
+
+<div class=topnav >
+<a href="http://localhost/cgi-bin/test/seqIn.cgi" target="_blank">Sequence Analysis</a>
+</div> 
+
+<div class=row>
+
+<div class='column side'>
+<h1 align=center><p>About us</p></h1>
+<p style="font-size:20px;">An online system that is able to read sequence(s) from rich format and convert it into sequence(s) in simple format.</p>
+</div>
+
+<div class='column middle'>
+<h1>What information we provide?</h1>
+
+	<div class="border">
+	 &nbsp;<b>Rich format</b>
+	 <p>&nbsp;File supported format: Genbank, EMBL</p>
+	 <p>&nbsp;GenBank format: It consists of an annotation section and a &nbsp;sequence section.</p>
+	 <p>&nbsp;EMBL format: One sequence entry starts with an identifier &nbsp;line ("ID "), followed by further annotation lines.</p>
+	</div>
+
+<br>
+
+	<div class="border">
+	 &nbsp;<b>Simple format</b>
+	 <p>&nbsp;Converted file format: Fasta, GCG</p>
+	 <p>&nbsp;Fasta format: The line before the nucleotide sequence, called &nbsp;the FASTA definition line, must begin with a carat (">"), &nbsp;followed by a unique SeqID (sequence identifier). </p>
+	 <p>&nbsp;GCG format: It contains exactly one sequence, begins with &nbsp;annotation lines and the start of the sequence is marked by a &nbsp;line ending with two dot ("..") characters. </p>
+	</div>
+	
+<br>
+
+</div>
+
+<div class='column side'>
+<h2>Get in touch</h2>
+<p><a href = "mailto: s2108076@siswa.um.edu.my"><i class="fa fa-envelope" style="font-size:48px; color:black;"></i></a></p>
+</div>
+ 
+</div>
+
+<div class = "footer">
+<p align=center>copyright © 2022; Designed by Leong Chee Yan</p>
+</div>
+
+</body>
+</html>

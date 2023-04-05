@@ -1,4 +1,3 @@
-# Bioinformatics Online System
-Web development project - Bioinformatics online system 
+Academic projects for MSc (Bioinformatics) 
 
-Universiti Malaya (UM)
+Web development project - Bioinformatics online system

@@ -2,7 +2,7 @@
 An online system that is able to read sequence(s) from rich format and convert it into sequence(s) in simple format.
 
 # What information we provide?
- Rich format
+ - Rich format
  
  File supported format: Genbank, EMBL
  
@@ -10,7 +10,7 @@ An online system that is able to read sequence(s) from rich format and convert i
  
  EMBL format: One sequence entry starts with an identifier &nbsp;line ("ID "), followed by further annotation lines.
  
- Simple format
+ - Simple format
  
  Converted file format: Fasta, GCG
  

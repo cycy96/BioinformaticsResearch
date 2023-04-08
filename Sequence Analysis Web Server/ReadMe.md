@@ -19,7 +19,8 @@ This is a free and open source platform mainly designed for nucleotide sequences
  
  User Interface 
 
-![image](https://user-images.githubusercontent.com/127811480/230708454-7e28c61f-f468-42f0-966a-a800b0ba8717.png)
+![image](https://user-images.githubusercontent.com/127811480/230708487-21cea5ae-f210-428c-a94a-7787e162b77b.png)
 
-![image](https://user-images.githubusercontent.com/127811480/230708458-8431e75a-1175-4a72-8cf5-5d2215e20e3e.png)
+![image](https://user-images.githubusercontent.com/127811480/230708501-a86f91a4-9bb5-4247-a45f-1eb88f741f4f.png)
+
 

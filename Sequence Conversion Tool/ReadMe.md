@@ -18,3 +18,11 @@ An online system that is able to read sequence(s) from rich format and convert i
  Fasta format: The line before the nucleotide sequence, called &nbsp;the FASTA definition line, must begin with a carat (">"), &nbsp;followed by a unique SeqID (sequence identifier). 
  
  GCG format: It contains exactly one sequence, begins with &nbsp;annotation lines and the start of the sequence is marked by a &nbsp;line ending with two dot ("..") characters.
+
+![image](https://user-images.githubusercontent.com/127811480/230708570-d85a04a8-a190-44d1-a0ea-08259fb6e78b.png)
+
+![image](https://user-images.githubusercontent.com/127811480/230708597-9b77f184-9e6d-4a48-88e9-40a54614a40c.png)
+
+![image](https://user-images.githubusercontent.com/127811480/230708624-d5c792ac-8ae3-4e59-aabb-02f778256e1d.png)
+
+![image](https://user-images.githubusercontent.com/127811480/230708631-354c4ea0-bbae-4e8a-9659-be596eb42cc7.png)

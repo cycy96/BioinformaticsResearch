@@ -16,8 +16,6 @@ This is a free and open source platform mainly designed for nucleotide sequences
  Sequeunce reverse complement
 
  Transcription and Translation Tool: Converts sequences from  DNA to RNA and from this to protein
- 
- User Interface 
 
 ![image](https://user-images.githubusercontent.com/127811480/230708487-21cea5ae-f210-428c-a94a-7787e162b77b.png)
 

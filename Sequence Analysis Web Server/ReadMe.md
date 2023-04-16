@@ -18,7 +18,7 @@ This is a free and open source platform mainly designed for nucleotide sequences
  Transcription and Translation Tool: Converts sequences from  DNA to RNA and from this to protein
 
 # Quick Overview
-This is the homepage of the website. 
+This is the homepage of the website. This website allowed the users to analyse their DNA/ protein sequences.
  
 ![image](https://user-images.githubusercontent.com/127811480/230708487-21cea5ae-f210-428c-a94a-7787e162b77b.png)
 

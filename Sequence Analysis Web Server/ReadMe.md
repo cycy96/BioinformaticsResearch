@@ -22,7 +22,12 @@ This is the homepage of the website. This website allowed the users to analyse t
  
 ![image](https://user-images.githubusercontent.com/127811480/230708487-21cea5ae-f210-428c-a94a-7787e162b77b.png)
 
+This is the webpage that telling users on how to use this webservers to carry out their biological analysis.
+
 ![image](https://user-images.githubusercontent.com/127811480/230708737-b182ffbb-09f0-4aa1-bd60-d0d26f894126.png)
+
+This is the webpage where users can enter their DNA/ protein sequences. Firstly, users need to determine their entry sequence either is a DNA or protein sequence.
+Next, users need to type/paste their sequence inside the given space. 
 
 ![image](https://user-images.githubusercontent.com/127811480/230708501-a86f91a4-9bb5-4247-a45f-1eb88f741f4f.png)
 

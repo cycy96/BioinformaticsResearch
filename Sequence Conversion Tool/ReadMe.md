@@ -38,5 +38,6 @@ An online system that is able to read sequence(s) from rich format and convert i
 ![image](https://user-images.githubusercontent.com/127811480/230708631-354c4ea0-bbae-4e8a-9659-be596eb42cc7.png)
 
 ➡ Below is an example of the output for sequence in GCG format.
+
 ![image](https://user-images.githubusercontent.com/127811480/230708695-91906187-93cf-4ab0-8b29-31198bc33025.png)
 

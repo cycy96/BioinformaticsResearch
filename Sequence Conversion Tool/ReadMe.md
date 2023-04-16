@@ -25,9 +25,11 @@ An online system that is able to read sequence(s) from rich format and convert i
 
 ![image](https://user-images.githubusercontent.com/127811480/230708570-d85a04a8-a190-44d1-a0ea-08259fb6e78b.png)
 
-➡ This webpage allows users to enter their sequence file. Users need to type/paste their sequence inside the given space. Click 'Submit' to run the analysis or 'Reset' to clear the entry form or 'Close' to close this webpage.
+➡ This webpage allows users to enter their sequence file. Users need to type/paste their sequence inside the given space. Click 'Submit' to proceed next step or 'Reset' to clear the entry form or 'Exit' to close this webpage.
 
 ![image](https://user-images.githubusercontent.com/127811480/230708597-9b77f184-9e6d-4a48-88e9-40a54614a40c.png)
+
+➡ After users enter the sequence file, Next step will be proceeded. A message will be displayed to tell users about their sequence format. In step 2, users have the option to select the desired conversion format. Click 'Convert' to proceed next step,'Back' to go back to the previous page or 'Exit' to close this webpage.
 
 ![image](https://user-images.githubusercontent.com/127811480/230708624-d5c792ac-8ae3-4e59-aabb-02f778256e1d.png)
 

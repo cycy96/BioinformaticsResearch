@@ -31,7 +31,7 @@ Next, users need to type/paste their sequence inside the given space. Click 'Run
 
 ![image](https://user-images.githubusercontent.com/127811480/230708501-a86f91a4-9bb5-4247-a45f-1eb88f741f4f.png)
 
-After users enter the correct sequence, the website displays the resulting output. Click 
+After users enter the correct sequence, the website displays the resulting output. Click 'Back' to go back to the previous page or 'Close' to close this webpage.
 
 ![image](https://user-images.githubusercontent.com/127811480/230708770-e7737c70-f791-4cd6-b57b-8a969fbb6cdf.png)
 

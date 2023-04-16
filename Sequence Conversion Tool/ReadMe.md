@@ -33,7 +33,7 @@ An online system that is able to read sequence(s) from rich format and convert i
 
 ![image](https://user-images.githubusercontent.com/127811480/230708624-d5c792ac-8ae3-4e59-aabb-02f778256e1d.png)
 
-➡ After users enter the correct sequence, the website displays the resulting output. Click '<<Choose another format' to go back to the previous page or 'Exit' to close this webpage. A message will be displayed to tell users about their sequence format.
+➡ After users choose the input sequence, the website displays the resulting output. Click '<<Choose another format' to go back to the previous page or 'Exit' to close this webpage. A message will be displayed to tell users about their sequence format.
 
 ![image](https://user-images.githubusercontent.com/127811480/230708631-354c4ea0-bbae-4e8a-9659-be596eb42cc7.png)
 

@@ -39,7 +39,7 @@ If the entry sequence is in the wrong format, an error message will be displayed
 
 ![image](https://user-images.githubusercontent.com/127811480/230708823-15579f82-9e5b-43b1-922b-7a4fc997a93e.png)
 
-"Below is an example of the output for protein sequence analysis.
+Below is an example of the output for protein sequence analysis.
 
 ![image](https://user-images.githubusercontent.com/127811480/230708781-264d5f73-65ed-491c-90fc-06db8d90f7b9.png)
 

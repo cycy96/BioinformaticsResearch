@@ -21,6 +21,8 @@ An online system that is able to read sequence(s) from rich format and convert i
 
 # Quick Overview
 
+➡ This is the homepage of the website that enables users to read sequence(s) from rich format and convert it into sequence(s) in simple format.
+
 ![image](https://user-images.githubusercontent.com/127811480/230708570-d85a04a8-a190-44d1-a0ea-08259fb6e78b.png)
 
 ![image](https://user-images.githubusercontent.com/127811480/230708597-9b77f184-9e6d-4a48-88e9-40a54614a40c.png)

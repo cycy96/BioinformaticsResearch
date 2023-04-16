@@ -31,13 +31,15 @@ Next, users need to type/paste their sequence inside the given space. Click 'Run
 
 ![image](https://user-images.githubusercontent.com/127811480/230708501-a86f91a4-9bb5-4247-a45f-1eb88f741f4f.png)
 
-After users enter the correct sequence, the website displays the resulting output.
+After users enter the correct sequence, the website displays the resulting output. Click 
 
 ![image](https://user-images.githubusercontent.com/127811480/230708770-e7737c70-f791-4cd6-b57b-8a969fbb6cdf.png)
 
 If the entry sequence is in the wrong format, an error message will be displayed.
 
 ![image](https://user-images.githubusercontent.com/127811480/230708823-15579f82-9e5b-43b1-922b-7a4fc997a93e.png)
+
+"Below is an example of the output for protein sequence analysis.
 
 ![image](https://user-images.githubusercontent.com/127811480/230708781-264d5f73-65ed-491c-90fc-06db8d90f7b9.png)
 
